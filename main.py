@@ -1,6 +1,7 @@
-# importing pandas library
+# INF601 - Advanced Programming in Python
+# Colton Ensz
+# Mini Project 2
 import pandas as pd
-# importing matplotlib library
 import matplotlib.pyplot as plt
 
 # creating dataframe
