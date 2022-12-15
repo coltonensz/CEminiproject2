@@ -13,5 +13,5 @@ df = pd.DataFrame({
 # plotting a line graph
 print("Line graph: ")
 plt.plot(df["person"], df["age"])
-plt.savefig('charts.png')
+plt.savefig('/charts.png')
 
